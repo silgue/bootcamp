@@ -96,3 +96,7 @@ replay_pid*
 
 # End of https://www.toptal.com/developers/gitignore/api/java,eclipse
 
+.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties
+.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log
+*.xmi
+.metadata/.log
